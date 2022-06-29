@@ -1,0 +1,11 @@
+name: EconomieTutorial
+version: '${project.version}'
+main: dev.tim.economietutorial.EconomieTutorial
+api-version: 1.18
+commands:
+  balance:
+    description: Bekijk hoeveel euro je hebt
+    usage: /<command>
+  shop:
+    description: Open de shop
+    usage: /<command>
